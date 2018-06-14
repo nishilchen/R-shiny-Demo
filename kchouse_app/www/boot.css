@@ -1,0 +1,28 @@
+body {
+  font-family: max font, verdana, tahoma, arial, helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 1200px;
+  align-items: center;
+}
+
+h1 {
+  font-family: cursive;
+  color: #005533;
+}
+
+.col-sm-4 {
+  background-color: #992288;
+  padding: 15px;
+}
+.col-sm-5 {
+  background-color: #991111;
+  padding: 15px;
+}
+.col-sm-8 {
+  background-color: #eeeeee;
+}
+
+#aaa {
+  align-items: center;
+}

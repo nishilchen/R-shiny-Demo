@@ -1,0 +1,12 @@
+name: kchouse_app
+title: kchouse_app
+username:
+account: lihsinchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 288044
+bundleId: 1303914
+url: https://lihsinchen.shinyapps.io/kchouse_app/
+when: 1522936259.40449
+asMultiple: FALSE
+asStatic: FALSE
