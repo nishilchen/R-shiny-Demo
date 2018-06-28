@@ -1,7 +1,7 @@
 # R-shiny-Demo
 
 ## King County House Price Prediction
-[link](https://lihsinchen.shinyapps.io/kchouse_app/)
+[Click here for demo](https://lihsinchen.shinyapps.io/kchouse_app/){:target="blank"}
 
 * ggmap
 * ggplot2
