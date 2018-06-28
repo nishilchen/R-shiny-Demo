@@ -1,0 +1,12 @@
+name: stock
+title: stock
+username:
+account: lihsinchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 315776
+bundleId: 1303005
+url: https://lihsinchen.shinyapps.io/stock/
+when: 1522896347.90538
+asMultiple: FALSE
+asStatic: FALSE
